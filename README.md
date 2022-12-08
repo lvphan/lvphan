@@ -16,11 +16,11 @@ I have some familiarity with HTML, JavaScript, CSS, and Python. Enough to potent
 ### 📘 Latest Blog Articles
 
 <!-- BLOG-POST-LIST:START -->
-- [Blackpearl - Writeup](https://www.lvphan.xyz/2022/06/blackpearl-writeup.html)
-- [Apple, Google, and Microsoft&#39;s &quot;Passkey&quot; standard](https://www.lvphan.xyz/2022/05/apple-google-and-microsofts-passkey.html)
-- [#concerns](https://www.lvphan.xyz/2022/04/concerns.html)
-- [TryHackMe - Inclusion: A beginner level LFI challenge - Writeup](https://www.lvphan.xyz/2022/02/tryhackme-inclusion-beginner-level-lfi.html)
-- [Motivational Quote Generator!](https://www.lvphan.xyz/2022/02/motivational-quote-generator.html)
+- [Blackpearl - Writeup](https://lvphan773.blogspot.com/2022/06/blackpearl-writeup.html)
+- [Apple, Google, and Microsoft&#39;s &quot;Passkey&quot; standard](https://lvphan773.blogspot.com/2022/05/apple-google-and-microsofts-passkey.html)
+- [#concerns](https://lvphan773.blogspot.com/2022/04/concerns.html)
+- [TryHackMe - Inclusion: A beginner level LFI challenge - Writeup](https://lvphan773.blogspot.com/2022/02/tryhackme-inclusion-beginner-level-lfi.html)
+- [Motivational Quote Generator!](https://lvphan773.blogspot.com/2022/02/motivational-quote-generator.html)
 <!-- BLOG-POST-LIST:END -->
 
 ▶ [...more blog articles](https://www.lvphan.xyz)
