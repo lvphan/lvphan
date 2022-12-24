@@ -16,11 +16,11 @@ I have some familiarity with HTML, JavaScript, CSS, and Python. Enough to potent
 ### 📘 Latest Blog Articles
 
 <!-- BLOG-POST-LIST:START -->
+- [[Day 23] Advent of Cyber - Defense in Depth | Mission ELFPossible: Abominable for a Day](https://lvphan773.blogspot.com/2022/12/day-23-advent-of-cyber-defense-in-depth.html)
 - [[Day 10] Advent of Cyber - Hack a game | You&#39;re a mean one, Mr. Yeti](https://lvphan773.blogspot.com/2022/12/day-10-advent-of-cyber-hack-game-youre.html)
 - [[Day 9] Advent of Cyber - Pivoting | Dock the halls](https://lvphan773.blogspot.com/2022/12/day-9-advent-of-cyber-pivoting-dock.html)
 - [Blackpearl - Writeup](https://lvphan773.blogspot.com/2022/06/blackpearl-writeup.html)
 - [Apple, Google, and Microsoft&#39;s &quot;Passkey&quot; standard](https://lvphan773.blogspot.com/2022/05/apple-google-and-microsofts-passkey.html)
-- [#concerns](https://lvphan773.blogspot.com/2022/04/concerns.html)
 <!-- BLOG-POST-LIST:END -->
 
 ▶ [...more blog articles](https://www.lvphan.xyz)
