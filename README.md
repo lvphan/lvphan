@@ -1,7 +1,6 @@
-### Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I am Le Phan!
+### Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, my name is Le (pronunced Lee) Phan!
 
-An IT Specialist currently working for Naval Sea Systems Command, Port Hueneme Divison. Looking to make the leap into Cybersecurity.
-You can take a look at projects I have been working on in the <b>Cybersecutity Projects</b> section. I also have a [blog](https://www.lvphan.xyz) that I try to write to about my experiences and interests relating to Cybersecurity to further develop my writing skills.
+I am currently a Cybersecurity Analyst for Las Vegas Sands.
 
 ---
 ### 🧰 Toolbox
@@ -11,18 +10,5 @@ I have some familiarity with HTML, JavaScript, CSS, and Python. Enough to potent
 
 ---
 ### 👨‍💻 Cybersecurity Projects:</h2>
-
----
-### 📘 Latest Blog Articles
-
-<!-- BLOG-POST-LIST:START -->
-- [[Day 23] Advent of Cyber - Defense in Depth | Mission ELFPossible: Abominable for a Day](https://lvphan773.blogspot.com/2022/12/day-23-advent-of-cyber-defense-in-depth.html)
-- [[Day 10] Advent of Cyber - Hack a game | You&#39;re a mean one, Mr. Yeti](https://lvphan773.blogspot.com/2022/12/day-10-advent-of-cyber-hack-game-youre.html)
-- [[Day 9] Advent of Cyber - Pivoting | Dock the halls](https://lvphan773.blogspot.com/2022/12/day-9-advent-of-cyber-pivoting-dock.html)
-- [Blackpearl - Writeup](https://lvphan773.blogspot.com/2022/06/blackpearl-writeup.html)
-- [Apple, Google, and Microsoft&#39;s &quot;Passkey&quot; standard](https://lvphan773.blogspot.com/2022/05/apple-google-and-microsofts-passkey.html)
-<!-- BLOG-POST-LIST:END -->
-
-▶ [...more blog articles](https://www.lvphan.xyz)
-
+ - [LeToolbox 🧰](lvphan.github.io/LeToolbox) is a combination of a bunch of tools that I use during my daily tasking combined into a single location. Instead of navigating multiple tabs to copy-paste information for OSINT, I made it my one-stop shop. The code is generated from the free version of OpenAI's ChatGPT and Anthropic's Claude with slight modifications made by me.
 ---
