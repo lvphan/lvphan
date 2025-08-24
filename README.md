@@ -10,5 +10,6 @@ I have some familiarity with HTML, JavaScript, CSS, and Python. Enough to potent
 
 ---
 ### 👨‍💻 Cybersecurity Projects:</h2>
- - [LeToolbox 🧰](lvphan.github.io/LeToolbox) is a combination of a bunch of tools that I use during my daily tasking combined into a single location. Instead of navigating multiple tabs to copy-paste information for OSINT, I made it my one-stop shop. The code is generated from the free version of OpenAI's ChatGPT and Anthropic's Claude with slight modifications made by me.
+ - [LeToolbox 🧰](lvphan.github.io/LeToolbox) is a combination of a bunch of tools that I use during my daily tasking combined into a single location. Instead of navigating multiple tabs to copy-paste information for OSINT, I made it my one-stop shop. The code is generated from the free version of OpenAI's ChatGPT and Anthropic's Claude, with slight modifications made by me.
+ - [QwikQL 📎](lvphan.github.io/QwikQL) a Kusto Query Language (KQL) repository featuring tags, syntax highlighting, and version history with the ability to revert. Sentinel's saved queries took too many clicks and too long to load... The code is generated from the free version of OpenAI's ChatGPT and Anthropic's Claude, with slight modifications made by me.
 ---
